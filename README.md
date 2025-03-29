@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/aa025ccc-1b9a-4a66-b9a3-2c4c7fe2b9a0
 
 # 📁 Acessar Projeto
 
-[Deploy](https://chaysouzas.github.io/aluraBooks/)
+[Acessar link](https://chaysouzas.github.io/aluraBooks/)
 
 # Autora
 
