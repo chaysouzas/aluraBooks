@@ -11,15 +11,13 @@ O objetivo do projeto foi aplicar os conceitos de responsividade utilizando a ab
 
 O projeto foi desenvolvido utilizando HTML5, CSS3 e JavaScript para criar uma interface moderna e dinâmica. A biblioteca Swiper.js foi usada para a implementação do carrossel de livros.
 
-![icone html](https://github.com/user-attachments/assets/87f188ec-1504-4e23-a174-144205d2f330) ![icone css](https://github.com/user-attachments/assets/322a4c98-c173-4a1b-89ae-c19cb736ab21) ![icone javascript](https://github.com/user-attachments/assets/8f237394-bd94-4025-be8f-af17f32784b5)
-
 # 🎥 Demonstração
 
 # 📁 [Deploy](https://chaysouzas.github.io/aluraBooks/)
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/122215869?s=400&u=6b59bf72a10b9aed8f6ab75d157f8e08a7c525bf&v=4" width=115><br><sub>Chayene de Souza</sub>(https://github.com/chaysouzas)]
+|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/122215869?s=400&u=6b59bf72a10b9aed8f6ab75d157f8e08a7c525bf&v=4" width=115><br><sub>Chayene de Souza</sub>(https://github.com/chaysouzas)]
 
 
 
