@@ -14,13 +14,19 @@ O projeto foi desenvolvido utilizando HTML5, CSS3 e JavaScript para criar uma in
 
 # 🎥 Demonstração
 
+
+https://github.com/user-attachments/assets/aa025ccc-1b9a-4a66-b9a3-2c4c7fe2b9a0
+
+
+
+
 # 📁 Acessar Projeto
 
 [Deploy](https://chaysouzas.github.io/aluraBooks/)
 
 # Autora
 
-|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/122215869?s=400&u=6b59bf72a10b9aed8f6ab75d157f8e08a7c525bf&v=4" width=115><br><sub>Chayene de Souza</sub>](https://github.com/chaysouzas)|
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/122215869?s=400&u=6b59bf72a10b9aed8f6ab75d157f8e08a7c525bf&v=4" width=115><br><sub>Chayene de Souza</sub>](https://github.com/chaysouzas)
 
 
 
